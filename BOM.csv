@@ -1,10 +1,14 @@
 Item, Qty., Price(USD), Link
 ER-TFTM035-6, 1, 13.43, https://www.buydisplay.com/lcd-3-5-inch-320x480-tft-display-module-optl-touch-screen-w-breakout-board
-PowerBoost 1000, 1, 19.95, https://www.adafruit.com/product/2465
-USB-C Breakout, 1, 2.95, https://www.adafruit.com/product/4090
-TS04-66-55-BK-100-SMT, 15, 0.143, https://www.mouser.com/ProductDetail/Same-Sky/TS04-66-55-BK-100-SMT?qs=A6eO%252BMLsxmSPFjiYrrF3HQ%3D%3D
-LTL-307E, 1, 0.14, https://www.mouser.com/ProductDetail/LITEON/LTL-307E?qs=LJdOdOP975wJHAxE1%2Fv4ZA%3D%3D
-CFM14JT100R, 1, 0.10, https://www.mouser.com/ProductDetail/SEI-Stackpole/CFM14JT100R?qs=sGAEpiMZZMtlubZbdhIBIA%252B43obPAL0tpqzY%252BkHSDUg%3D
-EG1206, 1, 0.74, https://www.mouser.com/ProductDetail/E-Switch/EG1206?qs=HKd%2Fp3M7KlUkIGmXpAWCMA%3D%3D
-2500mAh battery, 1, 14.95, https://www.adafruit.com/product/328
+BuyDisplay shipping, 1, 9.41, N/A
+PowerBoost 1000, 1, 19.95, https://www.digikey.com/en/products/detail/adafruit-industries-llc/2465/5356834
+USB-C Breakout, 1, 2.95, https://www.digikey.com/en/products/detail/adafruit-industries-llc/4090/9951930
+TS04-66-55-BK-100-SMT, 15, 0.143, https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/TS04-66-55-BK-100-SMT/15634326
+LTL-307E, 1, 0.14, https://www.digikey.com/en/products/detail/liteon/LTL-307E/669997
+CFM14JT100R, 1, 0.10, https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CFM14JT100R/1742057
+EG1206, 1, 0.74, https://www.digikey.com/en/products/detail/e-switch/EG1206/251333
+2500mAh battery, 1, 14.95, https://www.digikey.com/en/products/detail/e-switch/EG1206/251333
+Digikey Shipping, 1, 4.99, N/A
+PCB, 1, 9.00, N/A
+JLCPCB Shipping + taxes, 1, 39.44, N/A
 Raspberry Pi Zero 2 W, 1, 19.05, https://www.adafruit.com/product/5291
